@@ -38,7 +38,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 <p>
 <img width="3004" height="1944" alt="image" src="https://github.com/user-attachments/assets/d8d69fde-f327-49d1-aae2-99576e76d53d" />
 <p>
- Azure allows users to utilize it's environments in versitile ways. One of them being virtual machine. Creating a virtual machine will require proper configuration to insure the system runs accuratly. Creating a recource group with a unique name within the account being used is the first step. A virtual machine name must be established as well as a region and zone. The image will determine what OS will be entered when using the virtual machine. For the sake of this lab Windows 11 will be selected. It is important to check of the box at the bottom of this section for confirmation.
+ Azure allows users to utilize it's environments in versitile ways. One of them being virtual machines. Creating a virtual machine will require proper configuration to insure the system runs proficiently. In order to build a virtual machine, you must start by creating a recource group. Make sure to give the recourse group a unique name. A virtual machine name must be established as well as a region and zone. An image must be selected which will determine what OS will be working when using the virtual machine. For the sake of this lab Windows 11 will be selected. A username and password will be established for the virtual machien in this page as well, it is important to keep note of what username and password is ultimately used. It is important to check of the box at the bottom of this section for confirmation.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 <img width="2024" height="964" alt="image" src="https://github.com/user-attachments/assets/2f3fe04f-f8d9-4eb1-9bce-a5ad21011f4a" />
 </p>
 <p>
-At this point a virtual machine is established and can be explored. It has its own IP address, seperate from the one being used on the physcial computer that created the virtual machine. To view and opperate within this seperate operating system the virtual machine will have to be started. Azure is a pay as you go service so virtual machine do not have to perpetually run, that way money can be save. Once the VM is running the IP address can be copied.
+Once the virtual machine has been established it can be explored. It has its own IP address you can looke for when clicking on it, seperate from the IP being used on the physcial computer that created the virtual machine. Before entering the virtual machine it's vital to click the start button so it can begin running. Azure is a pay as you go service so when virtual machines are not being used it is important to stop them in order to save money. Once the VM is running the IP address can be copied.
 </p>
 <br />
 
@@ -54,7 +54,7 @@ At this point a virtual machine is established and can be explored. It has its o
 <img width="1538" height="1070" alt="image" src="https://github.com/user-attachments/assets/72e7c431-def1-4533-8a8e-c553c9d51c1c" />
 </p>
 <p>
-Remote desktop is going to be used to enter the environment of this newly created virtual machine. After a PC is added and selected, the IP address copied from the previous step can be entered as the PC name, a friendly name will be added as well for the sake of easily differentiating PCs in remote desktop. The username and password that was entered when creating the virtual machine will be re entered in remote desktop as the last step before entering the environment.
+Remote Desktop will be used to enter the virtual machine that has been created. Upon opening Remote Desktop a new PC will be added. It will include the IP address from the virtual machine as its PC name along with a friendly name to easily keep track. The username and password that was entered when creating the virtual machine will be re entered in remote desktop as the last step before entering the environment.
 </p>
 <br />
 
