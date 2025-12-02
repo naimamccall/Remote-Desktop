@@ -21,20 +21,20 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 
 <h2>List of Prerequisites</h2>
 
-- Step 1: Create a virtual machine by entering appropriate configuration.
+- Step 1: Recource Group Setup and Virtual Machine Configuration.
 
-- Step 2: Locate IP address in newly created Virtual Machine.
+- Step 2: Locating New IP.
   
-- Step 3: Open remote desktop and add a new PC.
+- Step 3: Adding New PC to Remote Desktop.
   
-- Step 4: Enter the IP address from the created Virtual Machine.
-  
-- Step 5: Inside the Virtual Machine ipconfig /all to show ip address of virtual machine instead of personal computer.
+- Step 4: Navigation Within The Virtual Machine.
 
   
 
 <h2>Installation Steps</h2>
 
+
+<h2>Step 1- Recource Group Setup and Virtual Machine Configuration</h2>
 <p>
 <img width="3004" height="1944" alt="image" src="https://github.com/user-attachments/assets/d8d69fde-f327-49d1-aae2-99576e76d53d" />
 <p>
@@ -42,6 +42,7 @@ This tutorial outlines the setup and ultilization of Remote Desktop<br />
 </p>
 <br />
 
+<h2>Step 2- Locating New IP</h2>
 <p>
 <img width="2024" height="964" alt="image" src="https://github.com/user-attachments/assets/2f3fe04f-f8d9-4eb1-9bce-a5ad21011f4a" />
 </p>
@@ -50,15 +51,13 @@ Once the virtual machine has been established it can be explored. It has its own
 </p>
 <br />
 
+<h2>Step 3- Adding New PC to Remote Desktop</h2>
 <p>
 <img width="1538" height="1070" alt="image" src="https://github.com/user-attachments/assets/72e7c431-def1-4533-8a8e-c553c9d51c1c" />
 </p>
 <p>
 Remote Desktop will be used to enter the virtual machine that has been created. Upon opening Remote Desktop a new PC will be added.
 </p>
-<br />
-
-
 <p>
 <img width="868" height="668" alt="image" src="https://github.com/user-attachments/assets/ef5bff4f-8bd9-4e99-b0fe-bde50f3ad1d6" />
 </p> 
@@ -70,6 +69,7 @@ The PC will include the IP address from the virtual machine as its PC name along
 </p>
 <br />
 
+<h2>Step 4- Navigation Within The Virtual Machine</h2>
 <p>  
 <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/6e9fa65c-cd83-4287-99e5-ed9fcb983ce0" />
 </p>
