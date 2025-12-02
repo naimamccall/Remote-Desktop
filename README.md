@@ -54,7 +54,7 @@ Once the virtual machine has been established it can be explored. It has its own
 <img width="1538" height="1070" alt="image" src="https://github.com/user-attachments/assets/72e7c431-def1-4533-8a8e-c553c9d51c1c" />
 </p>
 <p>
-Remote Desktop will be used to enter the virtual machine that has been created. Upon opening Remote Desktop a new PC will be added. It will include the IP address from the virtual machine as its PC name along with a friendly name to easily keep track. The username and password that was entered when creating the virtual machine will be re entered in remote desktop as the last step before entering the environment.
+Remote Desktop will be used to enter the virtual machine that has been created. Upon opening Remote Desktop a new PC will be added.
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Remote Desktop will be used to enter the virtual machine that has been created. 
 <img width="984" height="692" alt="image" src="https://github.com/user-attachments/assets/48be315d-3cad-4a2c-a81b-5961f5fe4fa2" />
 </p>  
 <p> 
-The PC name will be the IP address of the computer that is going to be mirrored. A Friendly Name will need to be entered as well in order to easily detect which pc is which withing the Windows App. Once that is established a username and password is required in order to gain full access to the computer that will be remoted into.
+The PC will include the IP address from the virtual machine as its PC name along with a friendly name to easily keep track. The username and password that was entered when creating the virtual machine will be re entered in remote desktop as the last step before entering the environment.
 </p>
 <br />
 
